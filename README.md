@@ -8,8 +8,6 @@ Tecnologia em Análise e Desenvolvimento de Sistemas
 
 *DS122 - Desenvolvimento Web I*
 
-Helena Rigoni dos Santos - GRR 20235519
-
 # Shelter Cats - Jogo de Digitação
 Esse projeto foi desenvolvido como trabalho prático para a disciplina DS122 - Desenvolvimento Web I, consistindo em uma aplicação WEB que implementa um jogo de digitação onde o usuário se torna voluntário em um abrigo de gatos.
 
